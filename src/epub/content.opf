@@ -38,9 +38,9 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">Paul Laurence Dunbar’s final novel, set in the late nineteenth century in a Southern small town and in New York City, chronicles an African American family’s struggle for integrity and survival.</dc:description>
+		<dc:description id="description">In a Southern town and then in New York City, an African American family struggles for for its integrity and survival.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;The Sport of the Gods&lt;/i&gt; is a novel set in the late nineteenth century, in the reUnited States. It chronicles an African American family’s struggle for integrity and survival in a Southern town and in New York City.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Sport of the Gods&lt;/i&gt; is a novel set in the United States in the late nineteenth century. It chronicles the tribulations of the Oakleys, an African American family of four, as they struggle to survive and maintain their integrity in a Southern town and then in New York City.&lt;/p&gt;
 			&lt;p&gt;This was &lt;a href="https://standardebooks.org/ebooks/paul-laurence-dunbar"&gt;Paul Laurence Dunbar’s&lt;/a&gt; final novel, published first in the May 1901 issue of &lt;i&gt;Lipincott’s Monthly Magazine&lt;/i&gt;. In 1902, Dodd, Mead &amp;amp; Co. published it as a book.&lt;/p&gt;
 			&lt;p&gt;This Standard Ebooks edition is based on the Dodd, Mead 1902 edition.&lt;/p&gt;
 		</meta>
